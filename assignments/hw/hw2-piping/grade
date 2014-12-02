@@ -1,2 +1,3 @@
-0 / 100
+65 / 100
 checksyscall -40, part1 20 part2 10
+regraded checksyscall is okay and part1 20 part2 10 part3 35
